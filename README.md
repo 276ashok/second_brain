@@ -157,17 +157,6 @@ If you see "GROQ_API_KEY not found" errors:
 
 ## Development
 
-### Running Tests
-
-Unit tests can be added in a `tests/` directory. Example structure:
-
-```
-tests/
-├── test_document_processor.py
-├── test_retrieval.py
-└── test_generation.py
-```
-
 ### Code Style
 
 The project follows PEP 8 style guidelines. Consider using:
